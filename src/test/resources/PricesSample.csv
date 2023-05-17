@@ -1,0 +1,7 @@
+Portfolio,Product,Underlying,Currency,Price
+PTF1,P1,U1,USD,10
+PTF1,P1,U2,EUR,5
+PTF1,P2,U3,CHF,2.5
+PTF1,P2,U4,GPB,2
+PTF1,P2,U5,JPY,100
+PTF2,P3,U6,TND,30
